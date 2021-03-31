@@ -38,5 +38,5 @@ The End</br>
 # sed -f sedexample databook</br>
 <img src = "https://user-images.githubusercontent.com/54985943/113116312-4782ff00-9248-11eb-8732-912775057b92.png"/>
 </hr>
-Contributed by Duyoung Jang
+Contributed by Duyoung Jang </br>
 You can learn further details in my blog https://medium.com/kianj/linux-stream-editor-sed-d0d45f5b5537
