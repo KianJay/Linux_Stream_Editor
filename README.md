@@ -1,6 +1,9 @@
 # Linux_Stream_Editor
+Linux_Stream_Editor
+SED PRACTICE & EXERCISE SOLVING SOME PROBLEMS
+</hr>
 
-<h2>Problems</h2>
+<h1>Questions </h1>
 Solve the problems using sed</br>
 1. Replace “Jon” with “Jonathan”</br>
 2. Delete first 3 lines</br>
